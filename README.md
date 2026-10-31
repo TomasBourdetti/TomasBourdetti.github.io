@@ -47,4 +47,4 @@ Contraseñas cifradas, consultas preparadas, escape de salida, protección CSRF 
 
 ## Autor
 
-[Tu nombre] · 3° BT Informática, UTU
+Tomas Bourdetti · 3° BT Informática, UTU
